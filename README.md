@@ -466,3 +466,263 @@ Reducing Friction --- Make the Next Step Easy
   \"Let me know if you want the report.\"    \"I will send the report to everyone in this room by 5 PM today.\" Push, do not pull.
 A summary recaps the past. A CTA drives the future. Never end without
 one.
+
+[Slide 20 of 57]
+# Visualize the Architecture 
+Section 3: Visual Engineering --- Nine topics that turn logic into
+visual proof
+   \#  Topic                                Key Question
+  ---- ------------------------------------ --------------------------------------------------
+   20  Cognitive Constraints Theory         Why do brains reject dense slides?
+   21  Cognitive Load Thresholds            How do you stay within human processing limits?
+   22  Slide Philosophy                     What role should slides play vs. the speaker?
+   23  Visual Hierarchy & Signal-to-Noise   How do you direct the eye to what matters?
+   24  Corporate Template Survival          How do you design within template constraints?
+   25  Functional Color Theory              How do you use color as a logic variable?
+   26  Readability & Accessibility          How do you ensure everyone can read it?
+   27  Visualizing Architecture: Diagrams   How do you simplify complex systems visually?
+   28  Visualizing Data & Code              How do you present metrics and snippets clearly?
+Slides are visual proofs, not documentation files.
+[Slide 21 of 57]
+# Design Within Brain Limits 
+  Constraint         What It Means                                                                                                                             Design Rule
+  ------------------ ----------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------
+  Expert Blindness   You assume the audience knows your context. They don\'t. Newton\'s tapping test: experts predicted 50% recognition --- actual was 2.5%.   Before each slide, ask: \"Would a newcomer grasp this?\" Strip jargon. Add context.
+  Cognitive Load     The brain has limited bandwidth. Too much data triggers overload. Sweller\'s model: intrinsic + extraneous + germane load.                Cut extraneous load. Remove decoration. One concept per slide. Use whitespace as a buffer.
+  Working Memory     Humans hold 4-7 chunks at once. Miller\'s 7±2, Cowan\'s revised 4. Exceed this and processing stops.                                      Max 7 items per slide. Group into 3-4 buckets. Use progressive disclosure for complex data.
+Split-Attention Effect:
+When you read bullet points aloud from a dense slide, the audience must
+choose between reading and listening. They do neither well. The fix:
+fewer words on screen, more words from your mouth.
+The Hidden Stakeholder
+Your deck will be forwarded to people who never saw you present. Design
+for two audiences: the live room and the async reader. Slide titles must
+form a complete narrative when read in sequence.
+Audience Size Changes Your Approach:
+[Small (\<5):] Conversational. Interactive.
+Slide-light.
+[Medium (5-50):] Balanced. Structured slides
+with Q&A pauses.
+[Large (50+):] Broadcast. Well-rehearsed.
+Authoritative.
+If the audience is parsing a dense slide, they are not listening to you.
+[Slide 22 of 57]
+# Cut the Load or Lose the Room 
+Applied rules for building content within brain limits
+  Trap                What Happens                                                                                                                       Content Fix
+  ------------------- ---------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------
+  Text Wall           You put a full paragraph on the slide. The audience reads it and stops listening to you. They miss what you say while they read.   Replace paragraphs with bullet points or a table. Keep each point to one line. Move detail to speaker notes.
+  Too Many Items      You list 12 bullet points. The brain holds 4-7 chunks. Items 8-12 get ignored or cause mental overload.                            Hard limit: 7 items max. If you have more, split into a second slide. Fewer is better.
+  Split Attention     A diagram sits on the left. The labels sit on the right. The brain wastes energy connecting them rather than learning.             Place labels directly on diagrams. Put text next to the visual it explains. Never separate related items.
+  No Breathing Room   Every pixel is packed. The brain has no space to process the last concept before the next one hits.                                Use whitespace between groups. It is not empty --- it is a mental buffer. It tells the brain \"process this group now.\"
+  Jargon Wall         You use terms the audience does not know. They stop to decode the word and miss the next three sentences.                          Replace jargon with plain words. If you must use a term, define it in the same line. Test on someone outside your team.
+Chunking Rules
+1.  Group related items under one label
+2.  Max 3-4 groups per slide
+3.  Each group answers one question
+4.  Use headers as group names
+Progressive Disclosure
+1.  Show the big picture first
+2.  Add detail in layers, one click at a time
+3.  Build diagrams step by step
+4.  Move deep data to backup slides
+Design for the brain --- group, cut, and space your content.
+[Slide 23 of 57]
+# Slides Support, Not Replace You 
+Section 3: Visual Engineering
+Core Principles --- The Slide\'s Role
+  Principle                     What It Means                                                                                                                                                        How to Apply It
+  ----------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------
+  Speaker is the Presentation   You deliver the ideas. Slides deliver the visual proof. The audience came to hear you, not read your screen. Never use slides as a teleprompter.                     Put key explanation in your voice, not on the slide. Use slides for data, charts, diagrams, and key numbers.
+  Reading = Not Listening       The split-attention effect: if the audience reads your slide, they stop hearing your voice. They do neither well. Their brain cannot process both streams at once.   Less text per slide. Let your voice carry the explanation. Use visuals as proof, not a script to read from.
+  Every Visual Needs a Job      A diagram that decorates without explaining is a failure. Every image, chart, and icon must prove or clarify specific text on the same slide.                        Ask about every visual: \"Which text does this prove?\" If no clear answer, remove it.
+  The 3-Second Test             Senior leadership must extract the primary takeaway in under 3 seconds. If they have to read every word to understand the point, the slide has failed.               Clear hierarchy. Large fonts for key numbers. Minimal noise. Action titles that state conclusions.
+\"Death by PowerPoint\" --- The Root Cause
+Not the software itself. The cause is using slides as a document to read
+aloud. When you build slides as a teleprompter, you become a text
+narrator, not an idea presenter. The fix: put less on each slide, not
+fewer slides. More slides with less content each is better than fewer
+slides packed with text.
+The Role Test --- Ask Before Every Slide
+**Slide role:** Simplify, clarify, emphasize --- visual proof for the
+audience. Data, charts, diagrams, key numbers.\
+**Speaker role:** Explain, connect, persuade --- context, story, and
+logic through your voice.\
+**Failure mode:** Slides become a teleprompter. Speaker becomes a
+reader. Audience becomes bored. You lose the room.
+If the audience is reading your slides, they are not listening to you.
+[Slide 24 of 57]
+# Direct the Eye to What Matters 
+Section 3: Visual Engineering
+Signal-to-Noise Ratio --- Maximize Signal, Minimize Noise
+  Concept              Definition                                                                                                  Action
+  -------------------- ----------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------
+  Signal               The data point or insight you want the audience to extract from the slide.                                  Amplify with size, color, or position. Make the key number large and bold.
+  Noise (Chart Junk)   3D effects, heavy gridlines, redundant borders, default gradients, drop shadows, decorative icon circles.   Remove all these. Shorten bullet points into punchy text fragments.
+  Whitespace           Active empty space drawing focus. Not empty real estate --- a cognitive buffer.                             Do not fill every inch. Let the content breathe. Direct the eye exactly where you want it.
+Visual Hierarchy Tools
+  ----------------------- --------------------------------------------------------------------------------------------------------------------------------------------------
+  Size & Weight           Large bold text for headlines. The Font Scale Rule: titles at 36-44pt bold, body at 20-24pt regular. Massive size gap signals reading priority.
+  Contrast & Color        Use bright color only for the subject. A single bright blue keyword inside neutral grey text highlights the main point. Intentional, not random.
+  Eye-Tracking Path       Western audiences scan in F or Z-shaped paths from top-left to bottom-right. Place your key data along this natural path.
+  Corporate Constraints   Fight for space within restrictive company templates. Use blank slide variations while preserving brand fonts and color codes.
+  ----------------------- --------------------------------------------------------------------------------------------------------------------------------------------------
+The Scanner Mindset
+Audiences do not read slides --- they scan them. Design for a 3-second
+scan, not a deep read. If leadership cannot extract the takeaway in
+under 3 seconds, the slide has too much noise.
+Clutter destroys clarity. Whitespace is not empty --- it is a design
+element that highlights what matters.
+[Slide 25 of 57]
+# Clean the Noise --- Keep the Signal 
+Section 3: Visual Engineering --- Same content, two different slides.
+Which one would you rather look at?
+BAD --- Chart Junk Everywhere
+[NOISE] 3D bar chart with gradient fills and drop shadows
+[NOISE] Heavy gridlines covering every row and column
+[NOISE] Decorative border around every text box
+[NOISE] Default blue, green, orange, yellow, purple
+palette
+[NOISE] Company logo repeated in three corners
+[NOISE] Animated transition effects between each line
+[NOISE] Background gradient from dark blue to light blue
+[NOISE] Clip art icons beside every bullet point
+[NOISE] Watermark text across the center
+[NOISE] Redundant legend repeating what the title already
+says
+**Result:** Audience reads decorations instead of data. Key message
+buried under visual clutter.
+GOOD --- Signal Only
+[SIGNAL] **One chart** showing the single metric that
+matters, annotated with the key insight
+[SIGNAL] **No gridlines** --- direct labels on the two
+bars you need to compare
+[SIGNAL] **Clean borders** --- one thin line for
+structure, no decorative boxes
+[SIGNAL] **Three colors** --- white background, black
+text, dark red for the key number
+[SIGNAL] **Logo once** --- bottom-right corner, small,
+out of the content area
+[SIGNAL] **No animation** --- static slide, speaker
+provides the motion
+[SIGNAL] **White background** --- maximum contrast, zero
+distraction
+[SIGNAL] **No clip art** --- every visual is a real
+diagram or chart proving a point
+**Result:** Audience sees the key insight in under 3 seconds. Signal
+cuts through cleanly.
+Remove everything that does not reinforce your key message. Every
+decoration you delete is clarity you gain.
+[Slide 26 of 57]
+# How to Create Slide Layout 
+Key Principles & Practical Hints
+Key Principles
+  Principle                What It Means                                                                                                       How to Apply
+  ------------------------ ------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------
+  One Idea Per Slide       One message per slide. Two ideas = two slides. More slides with less content beats fewer slides packed with text.   Ask: \"Can I state this in one sentence?\" If not, split it.
+  F / Z Reading Path       Western eyes scan top-left to bottom-right. Place the most important element where eyes land first.                 Title top-left. Key visual center. Supporting detail bottom-right.
+  The Margin Rule          Uniform safety margins on all four edges. Content touching the border looks cramped.                                Use at least 40-60px padding on every side. More whitespace, not less.
+  Grid Alignment           Align all elements to an invisible grid. Misalignment creates visual tension the audience senses.                   Pick a column grid (2, 3, or 4). Snap every element to grid lines.
+  Contrast Creates Focus   The element with highest contrast (size, color, weight) draws the eye first. Use this deliberately.                 Key number at 48pt bold. Everything else 16-20pt. One accent color.
+Common Layout Patterns
+  Pattern                 When to Use                                               Structure
+  ----------------------- --------------------------------------------------------- -----------------------------------------------------------------------
+  Title + Bullets         Standard content delivery with key points.                Title top. 3-5 bullets, max 6 words each. Use icons or numbers.
+  Split (Text + Visual)   Data, diagrams, or examples alongside explanation.        Left 50% text, right 50% visual. Equal weight both sides.
+  Full-Bleed Visual       Impact moments. Section openers. Single powerful image.   Image fills slide. Short headline overlaid. Minimal text, max impact.
+  Comparison              Before/after, option A vs B, good vs bad.                 Two equal columns with divider. Label each side. Mirror structure.
+Practical Hints
+**Start on paper.** **One grid** for the deck. **Two fonts** max.
+**3-second test** --- extract the point? **Less per slide.**
+**Left-align** body text. **Group** by proximity.
+Layout is invisible when done right and painful when done wrong. Grid,
+whitespace, and contrast are your three tools.
+[Slide 27 of 57]
+# Write Short, Clear Slide Text 
+Section 3: Visual Engineering
+1\. Keep Text Short
+  ------------------------ ------------------------------------------------------------------------------------------------------------------------
+  Max 30 words per slide   6 words per bullet maximum. Need more words? Split into two slides.
+  One idea per bullet      No compound sentences with \"and\" or \"but.\" Each bullet = one point.
+  Cut filler words         Remove articles (\"the\", \"a\") when clear: **\"Deploy on Friday\"** not \"The deployment should be done on Friday.\"
+  ------------------------ ------------------------------------------------------------------------------------------------------------------------
+2\. Make Text Clear
+  ------------------------- -------------------------------------------------------------------------------------------
+  Active voice always       **\"Team cut latency 40%\"** not \"Latency was reduced by 40%.\" Passive hides the actor.
+  Left-align body text      Center-align only titles and single-line callouts. Left-aligned reads faster.
+  Spell out abbreviations   Write the full term on first use. Never assume the audience knows your acronyms.
+  ------------------------- -------------------------------------------------------------------------------------------
+3\. Highlight What Matters
+  Technique       Do                                                                                             Do Not
+  --------------- ---------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------
+  Bold            Key terms and numbers only. Sparingly.                                                         If everything is bold, nothing stands out.
+  Color accent    One keyword per slide in [#8B0000] to draw the eye.   Do not color entire sentences. One word only.
+  Size contrast   Key metric at 48pt, explanation at 16pt. Size gap = emphasis.                                  Do not use ALL CAPS for emphasis --- it reads as shouting. Use bold or color.
+4\. Language Style by Context
+  Context                Correct Style                               Wrong Style
+  ---------------------- ------------------------------------------- ----------------------------------------------------
+  Slide text (bullets)   Telegraphic: **\"Cut latency 40%\"**        \"We were able to cut the latency by 40 percent.\"
+  Speaker notes          Full sentences: what you will say aloud.    Telegraphic fragments unreadable aloud.
+  Labels / captions      Noun phrase: **\"Current architecture\"**   \"This is our current architecture.\"
+  Consistency rule       All bullets same style on one slide.        Mixing telegraphic and full sentences.
+Short text. Active voice. One highlight per slide. One style per slide.
+[Slide 28 of 57]
+# Cut Words --- Keep Meaning 
+Section 3: Visual Engineering --- Same information, two different text
+approaches
+BAD --- Wall of Text (87 words)
+[PROSE] The migration to the new cloud infrastructure was
+successfully completed by the team during the third quarter and resulted
+in a significant reduction in latency across all major services, with
+the average response time dropping from 450 milliseconds to 270
+milliseconds.
+[PROSE] As a result of this migration, the monthly
+operational costs were reduced by approximately thirty thousand dollars,
+which represents a total cost saving that has been validated by the
+finance team and approved by senior leadership.
+[PASSIVE] Latency was reduced by 40% and costs were
+decreased by \$30K per month. The migration was led by the platform team
+and was completed on schedule.
+[FILLER] It is important to note that in order to achieve
+these results, careful planning and execution were required by all
+stakeholders involved in the process.
+**Result:** Audience reads paragraphs instead listening. Key numbers
+buried in prose. Passive voice hides who did what.
+GOOD --- Short and Clear (22 words)
+**Cloud migration cut latency 40%** --- 450ms to 270ms
+**Costs dropped \$30K per month** --- finance validated
+Platform team shipped on schedule
+Key number **highlighted** in accent color
+Active voice --- the team acts, the audience sees who did what
+**Result:** Audience grasps the headline in 3 seconds. Numbers jump out.
+No filler words.
+Max 30 words per slide. Active voice always. Bold the key numbers.
+Delete every word that does not add meaning.
+[Slide 29 of 57]
+# Guide the Eye to Key Messages 
+Section 3: Visual Engineering
+Highlighting Techniques
+  Technique        How It Works                                            Rule
+  ---------------- ------------------------------------------------------- -----------------------------------------------
+  Bold Text        Bold weight makes key terms and critical numbers pop.   Max 3 bold phrases per slide.
+  Color Accent     One keyword in #2c3e50 against black body text.         One accent color, 2-3 words max per slide.
+  Font Size Gap    Key metric at 48pt, supporting text at 16pt.            Size difference IS the emphasis.
+  Background Box   Light box behind one critical phrase to isolate it.     Only one per slide. More defeats the purpose.
+Subscripts --- Captions Below Visuals
+  Type      What to Write                                      Example
+  --------- -------------------------------------------------- ------------------------------------------------
+  Image     What the image *proves*, not just what it shows.   \"Latency spike after deploy at 14:32.\"
+  Diagram   One-line answer: what should the audience learn?   \"Bypasses cache on retry, adding 200ms.\"
+  Chart     The single insight --- not the chart title.        \"Q3 revenue dropped 12% after outage.\"
+  Table     Source attribution or methodology note.            \"Source: internal monitoring, Jan-Mar 2025.\"
+Emphasis Hierarchy (Strongest → Weakest)
+  Level            What It Looks Like                                           When to Use
+  ---------------- ------------------------------------------------------------ -------------------------------------------------
+  1 (Strongest)    Large bold metric in #2c3e50, 36-48pt.                       The one thing to remember. Once per slide.
+  2                Bold text in black, same size as body.                       Supporting points. 2-3 per slide max.
+  3--4 (Weakest)   Regular body text (L3). Underscripts in 16px #333333 (L4).   L3: context. L4: sources, caveats, methodology.
+**Key Rules:** Max 2 emphasis levels competing in one area. Bold is not
+decoration. Subscripts answer \"so what?\" Underscripts answer \"how do
+I know?\" If highlighting more than 3 things, split the slide.
+Emphasis is a hierarchy. One big thing, a few bold labels, regular
+context, small footnotes.
