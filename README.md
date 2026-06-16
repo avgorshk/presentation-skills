@@ -726,3 +726,279 @@ decoration. Subscripts answer \"so what?\" Underscripts answer \"how do
 I know?\" If highlighting more than 3 things, split the slide.
 Emphasis is a hierarchy. One big thing, a few bold labels, regular
 context, small footnotes.
+
+[Slide 30 of 57]
+# Place Images to Prove Your Point 
+Section 3: Visual Engineering
+Image Size Rules
+  Type             Max Size         When to Use
+  ---------------- ---------------- ------------------------------------------------
+  **Full-width**   Max 360px tall   Screenshots or detailed architecture diagrams.
+  **Side image**   Max 300px tall   Text + image layout, \~50% width each.
+  **Thumbnail**    Max 200px tall   Comparison rows, galleries, before/after.
+**Min size:** Never below 150×100px. **Aspect ratio:** Never stretch or
+distort.
+Image Placement Rules
+  Placement          Rule
+  ------------------ -----------------------------------------------
+  **Right side**     Text left, image right. Matches reading flow.
+  **Center**         Full-width when image IS the main content.
+  **Grid align**     Snap every image to the column grid.
+  **Reading flow**   Never break the reading flow with placement.
+Subscripts (Captions Below Images)
+  Rule            Detail
+  --------------- --------------------------------------------------------
+  **Mandatory**   Every visual needs a caption. No caption = decoration.
+  **Format**      16px in #2c3e50, directly below the image.
+  **Content**     State what it *proves*, not what it shows.
+✓ \"Latency dropped 40% after migration.\"
+✗ \"Performance graph.\"
+**Diagrams:** What should the audience learn? **Charts:** Insight + data
+source.
+Underscripts (Contextual Notes)
+  Attribute            Detail
+  -------------------- ---------------------------------------------
+  **Position**         Section bottom. 16px, #333333.
+  **Use for**          Sources, licensing, dates, methodology.
+  **Never critical**   If audience needs it, promote to body text.
+Image Selection Rules
+  Rule                  Detail
+  --------------------- ------------------------------------------------
+  **No stock photos**   Handshakes, pointing at screens --- zero info.
+  **Use instead**       Real screenshots, diagrams, charts, errors.
+  **Proof test**        Must answer: which text does this prove?
+  **Quality**           No blurry images. Recreate as clean diagrams.
+Every image needs a subscript that states what it proves. Place images
+to support reading flow.
+[Slide 31 of 57]
+# Master Templates Without Losing Your Message 
+Section 3: Visual Engineering --- Design clean, high-impact slides
+within rigid templates
+The Template Challenge
+Company master slides waste valuable screen estate with decorative
+lines, huge logos, and footer bars. You can design clean, high-impact
+slides even within rigid, clunky corporate templates.
+  Strategy             The Problem                                                                                           The Fix
+  -------------------- ----------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------
+  The Layout Trick     Crowded layouts with mandatory headers, footers, and decorative elements wasting 40% on your slide.   Reset to completely blank white or dark slide variations. Preserve corporate brand fonts and color codes.
+  Clean Margin Rule    Text colliding with corporate branding frames, logos, and footer bars at the edges.                   Maintain uniform safety margins around all every slide\'s edges. Keep content away from template frames.
+  Protect Whitespace   Oversized headers, mandatory logos, and decorative footer bars consuming your content area.           Push back against oversized elements. Your content matters more than the template decorations. Fight for every pixel.
+  Brand Compliance     Templates enforce specific fonts, colors, and layouts that limit design freedom.                      Keep the brand font and colors, but kill the clutter. Use blank variations to maximize your content area.
+The Bottom Line
+Your company template has a three-inch header, a footer with the logo,
+and a decorative line wasting 40% on your slide. Fight back. Use the
+blank slide variation. Keep the brand font and colors, but kill the
+clutter. Maintain clean margins. Your content matters more than the
+template\'s decorations.
+You can design clean, high-impact slides even when working within rigid
+corporate templates. Protect your whitespace.
+[Slide 32 of 57]
+# Pick the Right Tool for the Job 
+Section 3: Visual Engineering --- Choose the right tool for the right
+job
+Tool-by-Tool Comparison
+  Criteria         PowerPoint                                                                     Keynote                                                    Google Slides                                                        HTML / Reveal.js
+  ---------------- ------------------------------------------------------------------------------ ---------------------------------------------------------- -------------------------------------------------------------------- --------------------------------------------------------------
+  Best For         Corporate environments, board meetings, template compliance                    Keynotes, product launches, high-end visuals               Team collaboration, quick iterations, remote teams                   Technical conferences, code-heavy talks, developer audiences
+  Collaboration    Limited. SharePoint/OneDrive co-authoring exists but is clunky.                None native. iCloud sharing only. Poor for teams.          Real-time multi-user editing. Best for collaborative decks.          Git-based. Version control. Built for engineering workflows.
+  Code Snippets    Poor. No syntax highlighting. Manual formatting required.                      Poor. Same limitations as PowerPoint for code.             Poor. Code blocks need external formatting or screenshots.           Excellent. Native syntax highlighting, live code execution.
+  Diagrams         Strong. SmartArt, embedded Visio, shape tools. Corporate standard.             Excellent. Smooth animations, polished visual effects.     Basic. Limited shape tools. Use Lucidchart or Draw.io integration.   SVG or Mermaid.js. Powerful but requires markup skill.
+  Animation        Full-featured. Morph transitions, progressive disclosure. Industry standard.   Best-in-class. Magic Move, cinematic transitions.          Basic. Simple fades and appearances. Limited control.                CSS/JS animations. Unlimited control but hand-coded.
+  Offline          Full offline. Desktop application. Reliable on any machine.                    Full offline. Mac and iPad only. No Windows support.       Requires internet. Offline mode available but unreliable.            Full offline. Local HTML files. Zero dependencies.
+  Learning Curve   Low. Most people know the basics. Mastery takes effort.                        Low-Medium. Intuitive for Mac users. Different approach.   Low. Simplest interface. Limited advanced features.                  High. Requires HTML/CSS/JS knowledge. Developer tool.
+**Selection Rule:** Match the tool to the audience, not your preference.
+Boardroom? PowerPoint. Developer conference? HTML/Reveal.js. Team
+standup? Google Slides. Never fight the corporate standard --- learn to
+design well within it.
+The tool does not make the presentation --- but the wrong tool can break
+it. Match the tool to the audience and context.
+[Slide 33 of 57]
+# Color as a Logic Variable 
+Section 3: Visual Engineering --- Functional Color Theory for Engineers
+Semantic Color --- Color Encodes Data, Not Decoration
+  Color   Meaning               Usage in Technical Presentations
+  ------- --------------------- ----------------------------------------------------------------------------------------------------
+  Blue    Trust / Information   New services, trusted components, informational callouts, primary brand elements.
+  Red     Risk / Critical       Failed services, security vulnerabilities, critical alerts, high-risk items that demand attention.
+  Green   Success / Approved    Passed tests, approved changes, healthy services, completed milestones.
+  Grey    Baseline / Legacy     Legacy systems, static components, de-emphasized background elements.
+The 60-30-10 Palette Rule
+60% --- Neutral
+White / Grey background. The canvas that lets everything else breathe.
+30% --- Primary
+Brand color. Headers, section dividers, primary structural elements.
+10% --- Accent
+Highlight / Alert. The one thing on the slide that must pop. Use
+sparingly.
+**Consistency Principle:** If \"Service A\" is Blue on Slide 5, it must
+be Blue on Slide 20. Inconsistent colors confuse the audience and break
+their mental model.
+**Backgrounds:** Light backgrounds are safe and standard. Dark
+backgrounds need high contrast and are risky on projectors.
+Color creates meaning; inconsistency creates confusion. Use color to
+build a Visual Language for your architecture.
+[Slide 34 of 57]
+# Three Colors Win --- Every Time 
+Section 3: Visual Engineering --- Color is a logic tool, not a
+decoration. Fewer colors means clearer communication.
+BAD --- Rainbow Palette (6+ Colors)
+[BLUE] Headers in bright blue --- competes with data bars
+[GREEN] Positive metrics in green --- meaning changes per
+culture
+[RED] Warnings in red --- overused, audience stops
+noticing
+[ORANGE] Secondary labels in orange --- clashes with red
+and green
+[PURPLE] Accent highlights in purple --- fights every
+other color
+[GRAY] Background shaded gray --- reduces contrast and
+readability
+**Problems:** Audience cannot tell which color carries meaning. Green
+means \"good\" in some cultures and \"infrastructure\" in others.
+Projector displays wash out pastel tones. Six colors = six competing
+signals.
+GOOD --- Three-Color Discipline
+[WHITE] Background --- maximum contrast, clean, universal
+[BLACK] Body text --- readable, professional, no
+ambiguity
+[DARK RED] Headers, key numbers, accent highlights ---
+one color carries all emphasis
+**The rule:** Dark red is the only color that means \"pay attention
+here.\" The audience learns this in 30 seconds and then scanning becomes
+automatic.
+**Projector-safe:** White, black, and dark red survive any projector
+quality, any room lighting, any screen.
+**Cultural neutral:** No green-for-good or red-for-bad assumptions. One
+accent color means one thing: importance.
+**Result:** Audience knows exactly where to look. One color = one
+signal. Works on any projector.
+One accent color means one signal. Three colors total. Every extra color
+is noise.
+[Slide 35 of 57]
+# Make Every Slide Readable 
+Section 3: Visual Engineering --- Readability & Accessibility
+Typography for Engineers
+  ------------------ ---------------------------------------------------------------------------------------------------------------------------------------
+  Font Choice        Sans-Serif for screens (Arial, Helvetica, Calibri). Monospace only for code snippets. Never mix more than two font families per deck.
+  The 24-30pt Rule   Never go below 24pt. Ideally never below 30pt. If you need smaller text, you have too much text --- cut content, not font size.
+  Brand Trust        Inconsistent fonts signal poor attention to detail. Typography builds or destroys credibility before you open your mouth.
+  ------------------ ---------------------------------------------------------------------------------------------------------------------------------------
+Contrast & Projection Reality
+  ------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Dark Mode Trap      Dark backgrounds look cool on monitors but fail on dim projectors. What looks stunning on your retina display becomes a black hole in a bright conference room.
+  Worst Case Design   Design for the worst projector in the building, not your retina display. High contrast is non-negotiable. Test on a bad screen before presenting.
+  Contrast Ratio      WCAG AA minimum. Black text on white is safe. Grey text on grey background is a readability failure ignoring aesthetics.
+  ------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Accessibility
+**Color Blindness:** Never use Red/Green as the only distinction. Add
+patterns, labels, or icons. Do not rely on color alone to convey
+meaning.
+**Labels Required:** Do not just use red for \"bad\" --- label it \"High
+Risk.\" Do not just use green for \"good\" --- label it \"Approved.\"
+Text labels ensure everyone in the room can read the slide.
+Design for the worst projector in the building, not your retina display.
+If they cannot physically read it, your logic does not matter.
+[Slide 36 of 57]
+# Simplify Complexity --- Build Diagrams Progressively 
+Section 3: Visual Engineering --- Visualizing Architecture
+Core Principles
+  Principle                The Problem                                                                                                    The Technique
+  ------------------------ -------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------
+  Simplify Complexity      Showing the entire architecture universe at once overwhelms the audience. \"Death by Architecture Diagram.\"   Use layers (C4 Model). Show Context first, then Containers, then Components. Never show all levels at once.
+  Progressive Disclosure   A monolithic diagram with 30 boxes forces the audience to parse everything simultaneously.                     Use animation to build step-by-step. Click 1: Frontend. Click 2: API. Click 3: Database. Teach the flow, do not dump it.
+  Action Titles            Generic titles like \"Performance Metrics\" force the audience to read the entire slide to find the point.     The slide title must state the conclusion: \"Latency Reduced by 20%\" not \"Performance Metrics.\"
+  Grey the Noise           Static and changing components look identical, making it hard to see what is new or different.                 De-emphasize static components in light grey. Make the \"Change\" pop with color. Only the delta matters.
+The C4 Model --- Layer Your Architecture
+**Level 1 --- Context:** System in its environment. Users and external
+systems. No internals.\
+**Level 2 --- Containers:** Applications, data stores, microservices.\
+**Level 3 --- Components:** Internal modules within a container.\
+**Rule:** Show one level per slide. Never mix levels.
+Monolithic diagrams confuse. Build them progressively. Use animation to
+teach flow, not for decoration.
+[Slide 37 of 57]
+# Draw Diagrams People Can Read 
+Section 3: Visual Engineering --- A diagram must prove one point, not
+show every connection
+BAD --- Spaghetti Diagram
+[CHAOS] 24 boxes connected by 38 crossing arrows in every
+direction
+[CHAOS] Every box is a different size, shape, and color
+[CHAOS] Arrow labels are 8px text nobody can read from 2
+meters away
+[CHAOS] No clear entry point --- eyes do not know where to
+start
+[CHAOS] Includes every microservice, database, and queue
+in the system
+[CHAOS] Bi-directional arrows create ambiguity about data
+flow direction
+[CHAOS] No layers --- UI, business logic, and
+infrastructure all mixed together
+[CHAOS] Diagram legend requires a separate slide to
+explain
+**Result:** Audience gives up after 5 seconds. The diagram shows
+everything and communicates nothing.
+GOOD --- Clean Layered Diagram
+[3 LAYERS] **Three horizontal swim lanes** --- Client,
+Service, Data. One diagram, one perspective.
+[5 BOXES] **Maximum 5 to 7 boxes** --- show the key
+components, not every microservice. Details go in backup slides.
+[FLOW] **Left-to-right data flow** --- one direction, no
+crossing lines. Arrows point the same way.
+[LABELS] **16px text minimum** on all boxes and arrows.
+Readable from the back row.
+[ANNOTATION] **One key insight annotated** --- a callout
+arrow pointing to the critical path with a short note.
+[COLOR] **Dark red borders, black text, white fill** ---
+three colors, consistent style.
+[CAPTION] **Subscript below the diagram** --- states what
+the diagram proves, not what it shows.
+**Result:** Audience follows the flow in 5 seconds. Key insight
+highlighted. Clean, memorable.
+A diagram must prove one point. Max 7 boxes, one direction, layers for
+clarity. Annotate the insight.
+[Slide 38 of 57]
+# Present Metrics and Code with Clarity 
+Section 3: Visual Engineering --- Visualizing Data & Code
+Code Snippets --- A Slide Is Not a Git Diff
+  --------------------- ------------------------------------------------------------------------------------------------------------------------------------
+  Crop to Relevance     Show only the 3-5 lines that matter. Never paste a full code file onto a slide. Highlight the functional lines; grey out the rest.
+  Syntax Highlighting   Use proper syntax highlighting to visually separate keywords, strings, and logic. It helps the audience parse code at a glance.
+  Isolate Key Logic     Remove boilerplate, imports, and error handling. Only show the core algorithm or business logic you are discussing.
+  --------------------- ------------------------------------------------------------------------------------------------------------------------------------
+Data Visualization --- Charts Should Answer One Question Instantly
+  ---------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------
+  Rebuild, Do Not Screenshot   Never screenshot Grafana dashboards or Excel tables. Rebuild the chart to highlight exactly the trend you are discussing.
+  Annotate the Insight         Add callouts: \"Deploy caused this spike.\" Do not just show a graph --- let the data tell its own story.
+  Highlight the One Bar        Use a contrasting color for the single bar that matters. Grey out everything else. \"Eye Charts\" --- spreadsheets copied onto slides --- are a failure.
+  ---------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------
+Imagery & Architecture Diagrams
+**Avoid Generic Stock Photos:** No handshakes, no smiling call center
+agents. Use specific metaphors or high-quality abstract backgrounds.
+Low-quality images degrade your perceived technical quality.
+**Architecture Diagrams:** Simplify for non-technical audiences with
+high-level blocks. Use standard icons (AWS/Azure) for technical
+audiences. Inconsistent fonts signal poor attention to detail.
+A slide is not a Git Diff. Charts should answer one question instantly.
+Typography and imagery build brand trust.
+[Slide 39 of 57]
+# Avoid These Common Slide Mistakes 
+Section 3: Visual Engineering --- What not to do and how to fix it
+Content Anti-Patterns
+  Anti-Pattern        What It Looks Like                                                                                   The Fix
+  ------------------- ---------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------
+  Frankenslides       Deck patched from 5 sources. Inconsistent fonts, colors, layouts. The audience sees the stitching.   Build from scratch with one template. Reused slides must match the current deck\'s style.
+  The Data Dump       40 raw-metric slides with no narrative. Audience drowns in numbers, no story emerges.                Define \"Done\" first. Only include data that supports your ask. Move raw data to appendix.
+  The Mystery Novel   Building suspense toward a big reveal. Executives hate suspense --- they want answers first.         Use BLUF. State the conclusion in the first 60 seconds. The remaining deck is proof, not reveal.
+Visual Anti-Patterns
+  Anti-Pattern             What It Looks Like                                                                                        The Fix
+  ------------------------ --------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------
+  The Text Wall            80+ words in small font. Audience reads rather than listens. Split-attention kills engagement.            Max 30 words per slide. Use bullets, not paragraphs. Need more words? Split into two slides.
+  The Eye Chart            Spreadsheet screenshot pasted on slide. Nobody can read 9pt text from the back row.                       Rebuild the chart. Highlight the one row that matters. Grey out the rest. Use visual charts.
+  Chart Junk Festival      3D effects, drop shadows, gradients, decorative icons, rainbow palettes. Decoration overwhelms data.      Remove all 3D, shadows, gradients. Flat design. 3-4 colors max. If not encoding data, delete it.
+  The Teleprompter Slide   Presenter reads every word on the slide. Audience finishes reading before the speaker finishes talking.   Slides are visual proof, not speaker notes. Put your script in speaker notes, not on the slide.
+**Delivery:** \"I will skip this slide\" --- if you say this, the slide
+should not exist. **Closing:** Ending with \"Any questions?\" kills
+momentum. Always end with a clear call to action.
+Learn from mistakes --- but learn from others\' mistakes, not your own.
+Audit every slide against this gallery before you present.
