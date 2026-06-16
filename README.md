@@ -1141,3 +1141,273 @@ confidence and commands attention before you say a single word.
 Silence is a debugging tool for the audience\'s brain. Monotony is the
 enemy of engagement. Vary your speed to match the technical weight of
 the content.
+
+[Slide 46 of 57]
+# Your Body Speaks Before You Do 
+Section 4: Delivery Mastery --- Non-Verbal Delivery
+Stance, Position & Movement
+  --------------------- -------------------------------------------------------------------------------------------------------------------------------------------------
+  The Anchor            Plant your feet when making a key point. Grounded stance signals confidence and stability. Do not sway or shift weight.
+  The Guide Position    Stand to the left of the screen (Western reading order). The audience eye path: you, then the data. You lead them to the visual.
+  Purposeful Movement   Walk to transition between sections. Stop when you deliver a key point. Purposeful movement creates energy; aimless pacing signals nervousness.
+  --------------------- -------------------------------------------------------------------------------------------------------------------------------------------------
+Gestures & Eye Contact
+  ------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  The Power Zone            Keep hands between waist and chest. This is the zone of authority and openness. Avoid \"T-Rex arms\" (tucked elbows) or \"Windmills\" (flailing).
+  One Thought, One Person   Deliver one full sentence to one specific person, then move to another. Builds individual connection across the entire room.
+  The Lighthouse            For large audiences: slowly sweep your gaze left to right so every section feels included. Do not scan randomly or look at the floor.
+  Facial Expressions        Match expression to content. Smile to build rapport. Go serious for critical risks. 55% of communication is body language --- if your body is closed, your message is rejected.
+  ------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**The 55% Rule:** Studies show 55% of communication is body language,
+38% is vocal tone, and only 7% is the actual words. If your body
+contradicts your message, the audience believes your body. Open posture
+signals an open, robust architecture.
+Your body reinforces the stability of your ideas. Open body language
+signals an open, robust architecture.
+[Slide 47 of 57]
+# Master Your Gestures and Stage Presence 
+Section 4: Delivery Mastery --- Your hands, arms, and posture speak
+louder than your slides
+Arm and Hand Placement
+  Gesture            What to Do                                                                                               What to Avoid
+  ------------------ -------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------
+  The Power Zone     Keep hands between waist and chest height. This zone signals authority and openness.                     T-Rex arms --- elbows tucked tight against your ribs. Makes you look nervous and closed.
+  Open Palms         Show open palms when making a point or inviting input. Palms signal honesty and trust.                   Pointing at the audience or clenching fists. Both signal aggression or defensiveness.
+  Purposeful Hands   Use hands to show scale (big vs. small), direction (left vs. right), or count items (one, two, three).   Windmills --- arms flailing without purpose. Fidgeting with pens, rings, or clothing.
+  Resting Position   When not gesturing, rest hands at waist level, fingers loosely clasped. Ready to move.                   Hands in pockets (looks casual and disengaged). Arms crossed (looks defensive and closed).
+Mirroring and Movement
+  -------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Audience Mirroring   Mirror the audience\'s energy. A formal room needs calm gestures. An energetic crowd responds to bigger movements. Read the room and match it.
+  Guest Mirroring      When sharing the stage with a guest, match their energy and formality level. If the guest is calm, stay calm. If animated, bring matching energy. Mirroring builds rapport.
+  Where to Stand       Stand stage left (Western reading order). The eye path goes: you, then the data. With a guest, you take stage left, guest takes stage right.
+  How to Move          Walk to transition between sections. Stop and plant feet to deliver key points. Step toward the audience for emphasis. Step back to give a guest the spotlight.
+  Posture              Stand tall, shoulders back, weight evenly distributed. Open chest signals confidence. Face whoever is speaking --- the audience or a guest.
+  -------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**The 55% Rule:** Studies show your message is 55 percent body language.
+If your body contradicts your words, the audience believes your body.
+Rehearse facing a mirror --- what you see is what they get.
+Your gestures must match your message. Open hands build trust.
+Purposeful movement builds energy. Practice facing a mirror.
+[Slide 48 of 57]
+# Read the Room and Adapt 
+Section 4: Delivery Mastery --- Audience Interaction
+Reading the Audience Metrics
+  Signal            What It Means                                                            Your Response
+  ----------------- ------------------------------------------------------------------------ ------------------------------------------------------------------
+  The \"Checker\"   Eyes on laptop or phone. Disengaged. Your content is not holding them.   Pivot immediately. Ask a question. Change tempo. Show a demo.
+  The \"Frown\"     Confusion or disagreement. They may not follow your logic.               Stop and ask: \"Does this align with your experience?\" Clarify.
+  The \"Nod\"       Agreement. They are following and agree with your direction.             Reinforce the point. This is your validation. Build on it.
+Engagement Techniques
+  ---------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Rhetorical Questions   \"How many of you have seen this error?\" Forces mental engagement without requiring a spoken answer.
+  The \"Check-In\"       \"Does this architecture make sense before we move to the DB layer?\" Explicit checkpoint to verify alignment.
+  The 10-Minute Rule     Human attention span is approximately 10 minutes. At minute 10 switch to a demo. At minute 20 ask a poll. Reset attention periodically by changing format.
+  Interactive Tools      Zoom polls, Mentimeter, show of hands. Actively involve the audience rather than lecturing for 45 minutes straight.
+  Seeding Questions      Plant questions in the audience to kickstart Q&A if the room is quiet. A silent room after \"Any questions?\" is a momentum killer.
+  ---------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Pivoting:** If engagement drops, do not plow through. Change tempo,
+ask a question, or tell a story. **Humor:** Use appropriately to vary
+stimuli. **Hostile Audiences:** Have conflict resolution and
+de-escalation frameworks ready.
+A presentation is a dialogue, even if you are the only one speaking. The
+human attention span is approximately 10 minutes --- reset periodically.
+[Slide 49 of 57]
+# Co-Present Like a Single Speaker 
+Section 4: Delivery Mastery --- Multiple presenters can amplify or
+destroy your message
+Pros and Cons
+  Factor      Advantage                                                                           Risk
+  ----------- ----------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------
+  Expertise   Each speaker covers their strongest topic. Deeper technical answers during Q&A.     Gaps form when one speaker knows areas the other does not. Unprepared handoffs fail.
+  Energy      Switching speakers resets audience attention. Variety keeps the room alert.         Energy drops if one speaker is flat while the other is animated. Mismatch hurts both.
+  Time        Rehearsal divides preparation load. Each person writes their own section.           Coordination overhead. Two presenters need at least two joint rehearsals to align timing.
+  Narrative   Two perspectives make the argument richer. Engineers trust peer-backed proposals.   Contradicting each other on stage destroys credibility. One unified story is critical.
+Rules for Co-Presenting
+  ----------------------- ---------------------------------------------------------------------------------------------------------------------------------------
+  Assign Clear Sections   Each speaker owns specific slides. No ambiguity about who speaks next. Mark transitions in the script.
+  Rehearse Transitions    Practice every handoff out loud. The sentence that hands off must be smooth: \"Now \[Name\] will walk you through the architecture.\"
+  One Person Drives       One person controls the slides. The other focuses on speaking. Never both reaching for the keyboard.
+  Shared Script           Write one shared speaker notes document. Both speakers review the full script, not just their own section.
+  Stand Together          Position yourselves side by side, not hiding behind a podium. When your partner speaks, face them. When you speak, face the audience.
+  ----------------------- ---------------------------------------------------------------------------------------------------------------------------------------
+**The Acid Test:** Rehearse the full presentation together at least
+twice. If the handoffs feel awkward, the audience will notice. Smooth
+transitions are the difference between a team and two separate talks.
+Two speakers must look like one team. Assign sections, rehearse
+handoffs, and never contradict each other on stage.
+[Slide 50 of 57]
+# Q&A Mastery --- Handling the \"Live Fire\" 
+Section 4: Delivery Mastery
+The Framework: Listen, Pause, Validate, Answer
+  Step           What You Do                                                                                    Why It Matters
+  -------------- ---------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------
+  1\. Listen     Do not interrupt. Let them finish the full question. Hear the real concern behind the words.   Interrupting signals disrespect and prevents you from understanding the actual question.
+  2\. Pause      Think for 2-3 seconds before responding. Process the question.                                 A brief pause shows confidence, not uncertainty. It gives you time to formulate a precise answer.
+  3\. Validate   Acknowledge the question. \"That is a critical edge case.\"                                    Validation shows respect and buys you time. It also signals to the room that you take their concerns seriously.
+  4\. Answer     Be concise. Structure your answer. Do not ramble.                                              A rambling answer signals uncertainty. A structured answer signals mastery.
+Handling Difficult Scenarios
+  ----------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  The \"I Don\'t Know\"   \"I have not benchmarked that specific edge case, but I will run the test and email the results by 5 PM.\" Admit it and offer a timeline. This proves you are organized, not ignorant.
+  The Rabbit Hole         \"That is a deep technical nuance. Let us take that offline so we do not lose the group.\" Acknowledge, park it visibly on a whiteboard, and promise to handle it after.
+  The Hijacker            The person who keeps interrupting or takes over the mic. Politely but firmly defer: \"Let us take that conversation offline.\"
+  Bridging Technique      Acknowledge a question but pivot to your key message: \"That is a great question on X, but the broader issue is Y\...\"
+  ----------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Golden Rule:** Never bluff technical specs. Integrity builds
+authority. Saying \"I do not know\" builds trust --- guessing destroys
+it. Structure Q&A timing: during technical talks (to maintain
+engagement) vs. after persuasive talks (to maintain narrative control).
+The Q&A is where your technical expertise is truly tested. Saying \"I
+don\'t know\" builds trust; guessing destroys it.
+[Slide 51 of 57]
+# Perform for the Camera, Not the Room 
+Section 4: Delivery Mastery --- Virtual Delivery Mechanics
+The Setup --- Your Virtual Stage
+  ----------------- -----------------------------------------------------------------------------------------------------------------------------------------------
+  Lighting          Ring light or window in front of you, never behind. Backlighting turns you into a silhouette. Your face must be clearly visible.
+  Camera Position   Raise the laptop so the camera is at eye level. Looking down at a laptop camera creates an unflattering angle and breaks eye contact.
+  Screen Sharing    Turn off all notifications before sharing. Use Full Screen mode. Close Slack, email, and anything that could pop up during your presentation.
+  ----------------- -----------------------------------------------------------------------------------------------------------------------------------------------
+Virtual Engagement --- Fight Zoom Fatigue
+  ---------------- --------------------------------------------------------------------------------------------------------------------------------------------------------
+  The Green Dot    Look at the camera lens, not the faces on the screen. Eye contact with a lens feels unnatural but is essential for connection. Stare at the green dot.
+  Chat Storms      Ask everyone to type an answer at once in chat. Creates simultaneous engagement without the awkward \"Can you unmute?\" delays.
+  Breakout Rooms   Split into small groups for discussion, then reconvene. Small group interaction fights the passive viewing mode of virtual meetings.
+  Polls            Use Zoom polls or Mentimeter to force active participation. The audience must do something, not just watch.
+  ---------------- --------------------------------------------------------------------------------------------------------------------------------------------------------
+**The Virtual Reality:** You need 20% more energy and 30% more visuals
+than in-person. You are competing directly with your audience\'s email,
+Slack notifications, and short attention spans on a 14-inch laptop
+monitor. Virtual presenting requires \"Performance Art\" for the camera
+--- higher energy, shorter intervals, and more frequent visual changes
+to keep them off email.
+To create connection online, look at the lens, not the faces. Virtual
+requires higher energy and shorter intervals.
+[Slide 52 of 57]
+# Follow Through After You Leave 
+Section 4: Delivery Mastery --- Post-Presentation Follow-Up
+The 24-Hour Follow-Up Protocol
+  Action                           What to Do                                                                                                                            Why It Matters
+  -------------------------------- ------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------
+  The Thank-You Email              Send within 24 hours. Include: the deck as PDF, a one-paragraph summary of decisions made, and the CTA restated with deadline.        Executives forget 90% of your presentation within 48 hours. The email is your safety net. It becomes the official record of what was agreed.
+  Action Item Tracker              List every commitment you made during Q&A: \"I will benchmark that edge case by Friday.\" Assign owners and deadlines to each item.   Unfulfilled promises from Q&A destroy trust faster than a bad slide. Tracking commitments proves follow-through and reliability.
+  Share the Deck                   Distribute the deck with speaker notes attached. Annotate key slides with additional context for the forwarded deck reader.           Your deck will be forwarded to people who never saw you present. The annotated version must stand alone without your voice.
+  Answer \"I Don\'t Know\" Items   For every question you deferred during Q&A, deliver the answer within the promised timeline. Include supporting data.                 This is where you convert \"I don\'t know\" into \"I am thorough.\" The follow-up answer builds more trust than a quick guess during the meeting.
+The Self-Retrospective
+  ------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------
+  What Worked        Which slides generated engagement? Which key message made the senior leader nod? Note what resonated so you can replicate it next time.
+  What Failed        Where did you lose the room? Which slide caused confusion? Which Q&A question stumped you? Document failures as improvement inputs.
+  Timing Audit       Did you run over? Which section took too long? Record actual time per section vs. planned. Feed this into your next rehearsal.
+  Archive the Deck   Save the final version with speaker notes, Q&A log, and action items. This becomes your template library for future presentations on similar topics.
+  ------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------
+**The Forwarded Deck Rule:** Design every slide knowing it will be
+forwarded to someone who never heard you speak. The follow-up email with
+an annotated PDF turns a good presentation into a lasting artifact that
+drives decisions long after you leave the room.
+The presentation does not end at the door. A 24-hour follow-up email
+with the deck, decisions, and action items converts a good presentation
+into lasting impact.
+[Slide 53 of 57]
+# Engineer Your Influence 
+Section 5: Summary --- The Close & Call to Action
+1
+**Analyze** your Audience
+2
+**Structure** your Story
+3
+**Simplify** your Visuals
+4
+**Master** your Delivery
+Great presentations are a mix of **Science** (Structure / Data) and
+**Art** (Story / Delivery).
+Preparation is the only variable you can fully control.
+Key Takeaways
+- [•]
+  Know your audience before you build a single slide
+- [•]
+  Lead with BLUF --- your conclusion comes first
+- [•]
+  One idea per slide, designed for the back row
+- [•]
+  Rehearse out loud --- muscle memory beats memorization
+Your Call to Action
+Apply one technique from this deck in your next team meeting.
+Start with BLUF. State your conclusion first. Engineer your influence.
+\"Amateurs practice until they get it right;\
+professionals practice until they cannot get it wrong.\"
+[Slide 54 of 57]
+# Questions & Discussion 
+Every question strengthens your understanding
+- **Listen fully** --- no interruptions, hear the complete question
+  before responding
+- **No question is too basic** --- if you wonder, others do too
+- **Be specific** --- specific questions get specific, actionable
+  answers
+- **Follow up** --- every unanswered question gets a written response
+  within 24 hours
+- **Challenge the material** --- the best insights come from the hardest
+  questions
+- **Connect to your work** --- ask how each concept applies to your
+  actual projects
+Ask freely --- the real learning starts now.
+[Slide 55 of 57]
+# Useful Resources & Links 
++--------------+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Category     | Resource                          | Link                                                                                                                                 |
++==============+===================================+======================================================================================================================================+
+| Presentation | **Talk Like TED** --- Carmine     | [ted.com/ted-talks-book](https://www.ted.com/about/programs/ted-talks-book){target="_blank"}                                         |
+| Skills       | Gallo                             |                                                                                                                                      |
+|              +-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|              | **Presentation Zen** --- Garr     | [presentationzen.blogs.com](https://presentationzen.blogs.com/){target="_blank"}                                                     |
+|              | Reynolds                          |                                                                                                                                      |
+|              +-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|              | **Death by PowerPoint**           | [wikipedia.org/\.../Death_by_PowerPoint](https://en.wikipedia.org/wiki/Death_by_PowerPoint){target="_blank"}                         |
+|              +-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|              | **TED\'s Secret to Great          | [ted.com/talks/chris_anderson\...](https://www.ted.com/talks/chris_anderson_ted_s_secret_to_great_public_speaking){target="_blank"}  |
+|              | Speaking** --- Chris Anderson     |                                                                                                                                      |
++--------------+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Visual       | **Visual Display of Quantitative  | [edwardtufte.com/books_vdqi](https://www.edwardtufte.com/tufte/books_vdqi){target="_blank"}                                          |
+| Design       | Info** --- Edward Tufte           |                                                                                                                                      |
+|              +-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|              | **The C4 Model** --- Software     | [c4model.com](https://c4model.com/){target="_blank"}                                                                                 |
+|              | Architecture                      |                                                                                                                                      |
+|              +-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|              | **Nielsen Norman Group** --- UX   | [nngroup.com](https://www.nngroup.com/){target="_blank"}                                                                             |
+|              | Research                          |                                                                                                                                      |
+|              +-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|              | **Gestalt Principles** --- Visual | [wikipedia.org/\.../Principles_of_grouping](https://en.wikipedia.org/wiki/Principles_of_grouping){target="_blank"}                   |
+|              | Perception                        |                                                                                                                                      |
+|              +-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|              | **ChartJunk** --- Edward Tufte    | [wikipedia.org/wiki/Chartjunk](https://en.wikipedia.org/wiki/Chartjunk){target="_blank"}                                             |
++--------------+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Cognitive    | **Cognitive Load Theory** ---     | [wikipedia.org/wiki/Cognitive_load](https://en.wikipedia.org/wiki/Cognitive_load){target="_blank"}                                   |
+| Science      | Sweller                           |                                                                                                                                      |
+|              +-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|              | **Miller\'s Law** --- 7±2 working | [wikipedia.org/wiki/Miller\'s_law](https://en.wikipedia.org/wiki/Miller%27s_law){target="_blank"}                                    |
+|              | memory                            |                                                                                                                                      |
+|              +-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|              | **Split-Attention Effect**        | [wikipedia.org/wiki/Split-attention_effect](https://en.wikipedia.org/wiki/Split-attention_effect){target="_blank"}                   |
+|              +-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|              | **F-Pattern Eye Tracking** ---    | [nngroup.com/articles/f-shaped-pattern\...](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/){target="_blank"} |
+|              | Nielsen Norman                    |                                                                                                                                      |
++--------------+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Tools &      | **Reveal.js** --- HTML            | [revealjs.com](https://revealjs.com/){target="_blank"}                                                                               |
+| Software     | presentation framework            |                                                                                                                                      |
+|              +-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|              | **draw.io** --- Diagram tool      | [app.diagrams.net](https://app.diagrams.net/){target="_blank"}                                                                       |
+|              +-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|              | **Mermaid.js** --- Diagrams as    | [mermaid.js.org](https://mermaid.js.org/){target="_blank"}                                                                           |
+|              | code                              |                                                                                                                                      |
+|              +-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|              | **Carbon** --- Beautiful code     | [carbon.now.sh](https://carbon.now.sh/){target="_blank"}                                                                             |
+|              | snippets                          |                                                                                                                                      |
++--------------+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Delivery &   | **Glossophobia** --- Fear of      | [wikipedia.org/wiki/Glossophobia](https://en.wikipedia.org/wiki/Glossophobia){target="_blank"}                                       |
+| Practice     | public speaking                   |                                                                                                                                      |
+|              +-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|              | **Toastmasters International**    | [toastmasters.org](https://www.toastmasters.org/){target="_blank"}                                                                   |
+|              +-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|              | **Amy Cuddy: Your body language** | [ted.com/talks/amy_cuddy\...](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are){target="_blank"}         |
+|              | --- TED Talk                      |                                                                                                                                      |
++--------------+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+Bookmark these resources. Mastery comes from continuous practice and
+study.
